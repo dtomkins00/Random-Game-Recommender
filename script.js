@@ -12,4 +12,4 @@ const randomName = gameDetails.gameName[Math.floor(Math.random() * gameDetails.g
 const randomGenre = gameDetails.gameGenre[Math.floor(Math.random() * gameDetails.gameGenre.length)];
 const randomCost = gameDetails.gameCost[Math.floor(Math.random() * gameDetails.gameCost.length)];
 
-console.log(`Hello! Your recommended game is ${randomName}! Its genre is ${randomGenre} and the game can be purchased for: ${randomCost}.`);
+console.log(`Hello! Your recommended game is '${randomName}'! Its genre is ${randomGenre}, and the game can be purchased for: ${randomCost}.`);
