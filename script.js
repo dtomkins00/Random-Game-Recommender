@@ -1,0 +1,5 @@
+const gameCost = ['Paid to play it', 'Free', '$1', '$5', '$10', '$20', '$30', '$40', '$50', '$60', '$70', '$80', '$100', 'Your life savings', 'Unavailable for purchase :('];
+
+const gameGenre = ['Action', 'Adventure', 'Sports', 'FPS', 'Racing', 'Simulation', 'Visual Novel', 'Puzzle', 'Strategy', 'Platformer', 'Casual', 'Survival', 'Shoot-em-up', 'Multiplayer', 'Horror', 'Fighting', 'RPG', '???'];
+
+const gameName = ['Manly Ultraviolent Warfare', 'Football Game #1998', 'Help There Are Too Many Bullets On Screen', 'Chess', 'Live Service Game (will get shut down in less than one year)', 'Cozy Teatime with Your Crush', 'The Spookening', 'Serious Business Fighting Game', 'Unholy School', 'Dead Stranded', 'Plumber Kart 9', 'Digcraft', 'Air Traffic Control Simulator', 'Super Green Plumber Platforming', 'Quest To Defeat God IX', 'Friends At The Campfire'];
